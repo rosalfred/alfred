@@ -8,7 +8,6 @@ find_package(catkin REQUIRED COMPONENTS
   media_driver_java
   media_msgs
   media_msgs_java
-  alfred_launch
   media_model
 )
 
