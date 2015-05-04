@@ -5,6 +5,7 @@ project(alfred)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
+  alfred_launch
   media_driver
   media_msgs
   media_msgs_java
