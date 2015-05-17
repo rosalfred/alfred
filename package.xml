@@ -4,6 +4,7 @@
   <version>0.1.73</version>
   <description>This metapackage depends on package for common Alfred stack. This package is base of Alfred Assistant stack.</description>
   <maintainer email="mick.gaillard@gmail.com">Mickaël Gaillard</maintainer>
+  <maintainer email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</maintainer>
   <license>GPLv3</license>
   <author email="mick.gaillard@gmail.com">Mickaël Gaillard</author>
   <author email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</author>
