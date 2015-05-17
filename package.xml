@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>alfred</name>
-  <version>0.1.74</version>
+  <version>0.1.75</version>
   <description>This metapackage depends on package for common Alfred stack. This package is base of Alfred Assistant stack.</description>
   <maintainer email="mick.gaillard@gmail.com">Mickaël Gaillard</maintainer>
   <maintainer email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</maintainer>
