@@ -6,7 +6,7 @@ project(alfred)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   alfred_launch
-  media_driver
+  common_driver
   media_msgs
   media_msgs_java
   media_model
