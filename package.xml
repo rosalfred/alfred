@@ -23,14 +23,12 @@
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
   
-  <build_depend>alfred_launch</build_depend>
   <build_depend>media_model</build_depend>
   <build_depend>media_msgs</build_depend>
   <build_depend>media_msgs_java</build_depend>
   <build_depend>common_driver</build_depend>
   <build_depend>alfred_ia</build_depend>
   
-  <run_depend>alfred_launch</run_depend>
   <run_depend>media_model</run_depend>
   <run_depend>media_msgs</run_depend>
   <run_depend>media_msgs_java</run_depend>
