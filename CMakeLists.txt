@@ -7,7 +7,6 @@ project(alfred)
 find_package(catkin REQUIRED COMPONENTS
   common_driver
   media_msgs
-  media_msgs_java
   media_model
 )
 
