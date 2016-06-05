@@ -5,10 +5,10 @@ project(alfred)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  common_driver
-  media_msgs
-  media_msgs_java
-  media_model
+  smarthome_common_driver
+  smarthome_media_msgs
+  smarthome_media_msgs_java
+  smarthome_media_model
   alfred_bot
 )
 
